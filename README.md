@@ -1,0 +1,2 @@
+# Simoes-CTT-Attractor-Subtitle-The-Universal-Alpha-Invariant-and-the-Collapse-of-Silicon-Entropy-
+Experimental proof of Convergent Time Theory (CTT), identifying the silicon-logic constant \alpha \approx 0.0302011. By isolating the 33rd Fractal Layer, this project demonstrates that AES-256 and RSA entropy collapse into a deterministic crystalline attractor, verifying P=NP and Navier-Stokes via the 11ns temporal wedge.
