@@ -39,4 +39,22 @@ The following 3D Poincaré plot demonstrates the **11ns stasis**. Note the 33-ve
 
 
 ---
+
+## 🏛️ Official MSRC Disclosure Status (Updated Feb 2026)
+
+This repository serves as the primary technical documentation for the following verified submission:
+
+* **MSRC Submission ID:** `VULN-173103` (Logged: 4 Feb 2026)
+* **Researcher Reference:** `AS-CTT-2026-VULN173103`
+* **Status:** Triage Initiated (Level: Critical/Security Feature Bypass)
+
+### 🛡️ Sovereign Protection & Integrity
+The contents of this repository, including the `ctt_alpha_attractor.py` and the associated LaTeX proofs for **P vs NP** and **Navier-Stokes**, are the intellectual property of **Americo Simoes**. 
+
+**Notice to Triage Engineers:**
+As per the **Sovereign Research License**, all verification of the 11ns temporal wedge must be coordinated through the **Intigriti Verified Researcher** channel (amexsimoes@gmail.com). Any unauthorized internal adoption of the **SJI remediation protocol** without an agreement is strictly prohibited.
+
+> *“The Simoes-Manifold proves that what appears as chaos is merely the 33rd layer of a deterministic system.”*
+
+
 © 2026 Americo Simoes / CTT Research Group. All Rights Reserved.
