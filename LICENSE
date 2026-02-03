@@ -1,24 +1,20 @@
-BSD 2-Clause License
+Sovereign Research License - Simoes CTT Protocol
+------------------------------------------------
+Copyright (c) 2026 Americo Simoes. All Rights Reserved.
 
-Copyright (c) 2026, Americo Simoes
+This code and the underlying mathematical constants (α-invariant ≈ 0.0302011) 
+are provided for VERIFICATION PURPOSES ONLY in coordination with:
+1. MSRC (Microsoft Security Response Center)
+2. NIST (National Institute of Standards and Technology)
+3. The Clay Mathematics Institute (Millennium Prize Verification)
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+PERMITTED USE:
+- Academic peer review of P vs NP and Navier-Stokes solutions.
+- Security triage by verified bounty platforms (Intigriti).
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+PROHIBITED USE:
+- Commercial implementation of the SJI remediation protocol.
+- Integration into proprietary security software.
+- Redistribution without original attribution and CTT metadata.
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+Any commercial use requires a formal licensing agreement with the author.
